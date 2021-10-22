@@ -12,7 +12,7 @@
 
       Write a lex program to count the number of keywords, identifiers, operators, integers etc.
 
-   <img src="https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-NobodySS07/blob/main/Compiler-Design-Laboratory/Day5/Program%205.2/5.2.png" alt="5.2" style="width:700px">
+   <img src="https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-NobodySS07/blob/main/Compiler-Design-Laboratory/Day5/Program%205.2/Screenshot%20(331).png" alt="5.2" style="width:700px">
 
 ---
 
