@@ -3,10 +3,10 @@
    
    ## Introduction
 
-| Name          | Sanjeev Singh |
-| ------------- | ------------- |
-| Roll No.      | 2019UGCS046R  |
-| Branch        | Computer Science and Engineering  |
-| Subject       | Compiler Design Lab Record |
-| Subject Code  | CS324 |
-| Faculty       | Dr. Bhaskar Mondal  |
+|| Name          || Sanjeev Singh ||
+|| ------------- || ------------- ||
+|| Roll No.      || 2019UGCS046R  ||
+|| Branch        || Computer Science and Engineering  ||
+|| Subject       || Compiler Design Lab Record ||
+|| Subject Code  || CS324 ||
+|| Faculty       || Dr. Bhaskar Mondal  ||
