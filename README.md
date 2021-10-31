@@ -9,4 +9,4 @@
 | Branch        | Computer Science and Engineering  |
 | Subject       | Compiler Design Lab Record |
 | Subject Code  | CS324 |
-| Faculty       | Dr. Bhaskar Mondal @bhaskarfx  |
+| Faculty       | Dr. Bhaskar Mondal   |
